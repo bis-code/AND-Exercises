@@ -4,13 +4,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
     <Button
-        android:id="@+id/sendButton"
+        android:id="@+id/replyButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="SEND"
+        android:text="REPLY"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.949"
@@ -19,7 +19,7 @@
         app:layout_constraintVertical_bias="0.928" />
 
     <EditText
-        android:id="@+id/sendText"
+        android:id="@+id/reply"
         android:layout_width="279dp"
         android:layout_height="47dp"
         android:layout_marginStart="4dp"
@@ -33,7 +33,7 @@
         app:layout_constraintVertical_bias="0.928" />
 
     <TextView
-        android:id="@+id/replyText"
+        android:id="@+id/textReply"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp"

@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     Button sendButton;
     EditText editText;
     TextView replyText;
+    Button emailButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -22,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         sendButton = findViewById(R.id.sendButton);
         editText = findViewById(R.id.sendText);
         replyText = findViewById(R.id.replyText);
+        emailButton = findViewById(R.id.emailButton);
 
         Bundle bundle = getIntent().getExtras();
         if(bundle != null)
@@ -32,11 +34,24 @@ public class MainActivity extends AppCompatActivity {
         else{
             replyText.setText("No message received..");
         }
+
+
+
+
         sendButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent intent = new Intent(MainActivity.this, MainActivity2.class);
                 intent.putExtra("message",editText.getText().toString());
+                startActivity(intent);
+            }
+        });
+
+
+        emailButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(MainActivity.this, EmailActivity.class);
                 startActivity(intent);
             }
         });

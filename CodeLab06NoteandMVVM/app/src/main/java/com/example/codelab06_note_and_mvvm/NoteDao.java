@@ -67,4 +67,18 @@ public class NoteDao {
             }
         }, 3000);
     }
+
+    public void addNoteFromInternet()
+    {
+        isLoading.setValue(true);
+        new Timer().schedule(new TimerTask() {
+            @Override
+            public void run() {
+                List<Note> currentNotes = allNotes.getValue();
+                currentNotes.add(new Note("HELLO EVERYONE FROM INTERNET"));
+                allNotes.postValue(currentNotes);
+                isLoading.postValue(false);
+            }
+        }, 3000);
+    }
 }

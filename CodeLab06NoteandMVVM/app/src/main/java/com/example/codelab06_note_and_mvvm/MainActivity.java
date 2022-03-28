@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
     TextView textView;
     ProgressBar progressBar;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,5 +56,10 @@ public class MainActivity extends AppCompatActivity {
     public void deleteAllNotes(View v)
     {
         viewModel.deleteAllNotes();
+    }
+
+    public void addNoteFromInternet(View v)
+    {
+        viewModel.addNoteFromInternet();
     }
 }

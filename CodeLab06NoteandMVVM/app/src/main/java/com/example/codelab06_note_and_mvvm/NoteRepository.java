@@ -42,4 +42,9 @@ public class NoteRepository {
     {
         noteDao.deleteAllNotes();
     }
+
+    public void addNoteFromInternet()
+    {
+        noteDao.addNoteFromInternet();
+    }
 }

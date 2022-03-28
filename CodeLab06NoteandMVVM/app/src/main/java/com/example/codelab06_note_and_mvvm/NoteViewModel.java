@@ -33,4 +33,9 @@ public class NoteViewModel extends ViewModel {
     {
         repository.deleteAllNotes();
     }
+
+    public void addNoteFromInternet()
+    {
+        repository.addNoteFromInternet();
+    }
 }

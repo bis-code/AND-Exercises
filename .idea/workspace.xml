@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d2ddecc4-f54d-4c09-80c7-130444028080" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/AND-Exercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/androidTest/java/com/example/codelab06_note_and_mvvm/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/java/com/example/codelab06_note_and_mvvm/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/java/com/example/codelab06_note_and_mvvm/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/java/com/example/codelab06_note_and_mvvm/NoteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/java/com/example/codelab06_note_and_mvvm/NoteRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/java/com/example/codelab06_note_and_mvvm/NoteViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/app/src/test/java/com/example/codelab06_note_and_mvvm/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CodeLab06NoteandMVVM/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeLab04/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="271Zw5nOCASzE8D4STLa8CiIKdU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ddecc4-f54d-4c09-80c7-130444028080" name="Default Changelist" comment="" />
+      <created>1648489787623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1648489787623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

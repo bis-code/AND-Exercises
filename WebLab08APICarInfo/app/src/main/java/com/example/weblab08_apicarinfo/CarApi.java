@@ -5,6 +5,6 @@ import retrofit2.http.GET;
 import retrofit2.http.Path;
 
 public interface CarApi {
-    @GET("api/v3/dmr/regnrquery/{regNum}")
+    @GET("noapiimplemented")
     Call<CarResponse> getCar(@Path("regNum") String regNum);
 }
